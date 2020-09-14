@@ -1,3 +1,4 @@
+# 使用submocule控制libc-database
 # Search libc function offset
 
 ## 简介
@@ -11,8 +12,8 @@
 ## 安装
 
 ```shell
-git clone https://github.com/lieanu/LibcSearcher.git
-cd LibcSearcher
+git clone https://github.com/xiaosatianyu/MyLibcSearcher
+cd MyLibcSearcher
 python setup.py develop
 ```
 
