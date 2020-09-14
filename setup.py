@@ -4,9 +4,9 @@ setup(
     name="LibcSearcher",
     version="0.1",
     description="Python wrapper for libc-database.",
-    author="lieanu",
-    author_email="liuyue0310@gmail.com",
+    author="xiaosa",
+    author_email="xiaosa",
     platforms=["any"],
     license="BSD",
-    url="https://github.com/lieanu/libc",
+    url="https://github.com/xiaosatianyu/MyLibcSearcher",
     packages=find_packages(), )
